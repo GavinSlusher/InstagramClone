@@ -2,6 +2,13 @@
 <resources>
     <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccent">#000000</color>
+    <color name="primaryButton">#43A047</color>
+    <color name="submitButton">#7CB342</color>
+    <color name="LogOutButton">#E53935</color>
+    <color name="ButtonText">#FFFFFF</color>
     <color name="toolbarTextColor">#000000</color>
+    <color name="cursorAccent">#33691E</color>
+    <color name="controlNormal">#006064</color>
+    <color name="controlActivated">#1A237E</color>
 </resources>

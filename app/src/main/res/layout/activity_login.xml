@@ -40,13 +40,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:textColor="@color/ButtonText"
+            android:backgroundTint="@color/primaryButton"
             android:text="Login" />
 
         <Button
             android:id="@+id/btnSignUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="@color/ButtonText"
             android:layout_weight="1"
+            android:backgroundTint="@color/LogOutButton"
             android:text="Sign Up" />
 
     </LinearLayout>
